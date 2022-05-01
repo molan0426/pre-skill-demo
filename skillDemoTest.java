@@ -6,7 +6,7 @@ public class skillDemoTest {
 
     @Test
     public void TestIsPositive() {
-        assertTrue(skillDemo.isPositive(1));
+        assertTrue(skillDemo.isPositive(-3));
     }
     
     
